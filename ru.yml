@@ -10,3 +10,20 @@ tab_footer:
   - ''
   - ' &7Вы находитесь на сервере:'
   - ' &a%server% '
+
+# Авторизация
+auth_player_not_authorized: '&cОшибка, игрок не авторизирован!'
+auth_player_not_registered: '&cОшибка, игрок не зарегистрирован!'
+auth_change_password_use: '&fИспользуйте &8- &e/changepassword <старый_пароль> <новый_пароль>'
+auth_player_password_wrong: '&cНеверно введён пароль, проверьте правильность ввода..'
+auth_success_change_password: '&aВы успешно изменили пароль от аккаунта, ваш новый пароль - %new_password%' # плейсхолдер мб в говне
+auth_player_already_authenticated: '&cИгрок уже зарегистрирован в системе.'
+auth_login_use: '&fИспользуйте &8- &e/login <ваш_пароль>'
+auth_register_use: '&fИспользуйте &8- &e/register <пароль> <повтор_пароля>'
+auth_password_not_valid: '&cОшибка, пароль должен содержать не менее 6-ти и не больше 24 символов'
+auth_password_not_correct: '&cОшибка, ваш пароль слишком простой!'
+auth_link_account_vk: |-
+ &fПривяжите аккаунт Вконтакте. Для этого напишите в
+ &fсообщения группы &evk.com/litedaysmc &fслово "привязть <игровой_ник>"
+auth_unregister_use: '&fИспользуйте &8- &e/unreg'
+auth_unregister_success: '&aВы успешно разлогинились, но зачем вам это ? :c'
