@@ -41,6 +41,22 @@ selected_language: '§6§lLanguages §8| §fНа текущий момент в�
 back_item_name: '§eВернуться назад'
 back_item_content: '§7Возврат в первоначальное меню'
 
+# Лобби
+lobby_scoreboard_name: '§6§lLiteDays'
+lobby_scoreboard_content:
+ - ''
+ - '§fСтатус: %status%'
+ - '§fУровень: %level%'
+ - ''
+ - '§fМонет: §6%money%'
+ - '§fОнлайн: §a%online%'
+ - ''
+ - '§fИдентификатор лобби: §2%lobby%'
+ - ''
+ - '§emc.litedays.net'
+
+lobby_welcome_player_message: '§fДобро пожаловать на §6§lLiteDays, §fвас ждут не забываемеые путешествия!'
+
 # Меню
 menu_player_profile_title: 'Ваш профиль'
 profile_player_info_name: 'Профиль'
