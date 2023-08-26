@@ -46,7 +46,7 @@ lobby_scoreboard_name: '§6§lLiteDays'
 lobby_scoreboard_content: |-
  §r
  §fСтатус: %status%
- §fУровень: %level%
+ §fУровень: §a%level%
  §r
  §fМонет: §6%money%
  §fОнлайн: §a%online%
