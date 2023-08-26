@@ -85,10 +85,8 @@ menu_gamemode_back_to_hub_name: '§eВернуться в главное лоб�
 menu_gamemode_back_to_hub_content:
  - '§7пройди паркур, разбей клавиатуру..'
 
-# Test
-hub_scoreboard_title: 'Lobby'
-hub_scoreboard_content:
- - 'Группа: %group%'
- - 'Уровень: %level%'
- - ''
- - 'www.litedaysmc.net'
+## Режимы меню
+menu_gamemode_gungame_name: '§e§lGunGame'
+menu_gamemode_gungame_content:
+ - '§7Сражайся, бейся, пиздись, че'
+ - '§7хочешь, то и делай емае..'
