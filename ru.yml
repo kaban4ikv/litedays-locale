@@ -44,18 +44,23 @@ back_item_content: '§7Возврат в первоначальное меню'
 # Лобби
 lobby_scoreboard_name: '§6§lLiteDays'
 lobby_scoreboard_content:
- - '§1'
+ - '§r'
  - '§fСтатус: %status%'
  - '§fУровень: %level%'
- - '§1'
+ - '§r'
  - '§fМонет: §6%money%'
  - '§fОнлайн: §a%online%'
- - '§1'
+ - '§r'
  - '§fИдентификатор лобби: §2%lobby%'
- - '§1'
+ - '§r'
  - '§emc.litedays.net'
 
 lobby_welcome_player_message: '§fДобро пожаловать на §6§lLiteDays, §fвас ждут не забываемеые путешествия!'
+
+## NPC
+npc_hologram_not_found_servers: '§cНет доступных серверов!'
+npc_hologram_not_found_servers_3: '%game_name%'
+npc_hologram_not_found_servers_4: '§fИгроков: §a%players%'
 
 # Меню
 menu_player_profile_title: 'Ваш профиль'
