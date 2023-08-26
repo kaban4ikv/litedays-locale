@@ -43,7 +43,7 @@ back_item_content: '§7Возврат в первоначальное меню'
 
 # Меню
 menu_player_profile_title: 'Ваш профиль'
-profile_player_info_name: '§f§lПрофиль'
+profile_player_info_name: 'Профиль'
 profile_player_info_content:
  - ''
  - '§fИгровая группа: %group%'
@@ -58,7 +58,7 @@ profile_player_info_content:
 menu_gamemode_title: 'Выбор режима'
 menu_gamemode_profile_name: 'Профиль %player%'
 menu_gamemode_profile_content:
- - 'Описание съел камбет'
+ - '§cОписание съел камбет O_o'
 menu_gamemode_back_to_hub_name: '§eВернуться в главное лобби'
 menu_gamemode_back_to_hub_content:
- - 'пройди паркур, разбей клавиатуру..'
+ - '§7пройди паркур, разбей клавиатуру..'
