@@ -58,10 +58,10 @@ lobby_scoreboard_content:
 lobby_welcome_player_message: '§fДобро пожаловать на §6§lLiteDays, §fвас ждут не забываемеые путешествия!'
 
 ## NPC
-npc_hologram_not_found_servers: '§cНет доступных серверов!'
-npc_hologram_not_found_servers_3: '%game_name%'
-npc_hologram_not_found_servers_4: '§fИгроков: §a%players%'
-
+npc_hologram_no_servers_line_1: '%game_new%'
+npc_hologram_no_servers_line_3: '§c§lНет доступных серверов'
+npc_hologram_connect: '§eНажмите, чтобы подключиться'
+npc_hologram_no_servers_line_4: '§7Сейчас играют §f%players% §7игроков'
 # Меню
 menu_player_profile_title: 'Ваш профиль'
 profile_player_info_name: 'Профиль'
