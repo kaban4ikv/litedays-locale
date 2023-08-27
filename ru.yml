@@ -49,7 +49,6 @@ lobby_scoreboard_content:
  - '§fМонеты: §6%money%'
  - '§2'
  - '§fУровень: §a%level%'
- - '  %level_bar%'
  - '§3'
  - '§fИдентификатор лобби: §2%lobby%'
  - '§fОбщий онлайн: §a%online%'
