@@ -98,3 +98,18 @@ menu_gamemode_gungame_content:
  - '§2'
  - '§c§lСРАЖАЙТЕСЬ, ЗАРАБАТЫВАЙТЕ ПОИНТЫ!'
  - '§3'
+
+back_item_name: '§c§lНазад'
+back_item_content:
+ - 'хз че писать'
+
+## Донаты меню
+menu_donate_list_name: 'Донат услуги'
+menu_donate_privileges_name: '§e§lПривилегии'
+menu_donate_privileges_content:
+  - '§7Список донат привилегий'
+  - ''
+  - '§7Все возможности привилегий'
+  - '§7можно узнать в данном разделе.'
+  - ''
+  - '§e▸ Нажми, чтобы открыть меню'
