@@ -57,16 +57,6 @@ lobby_scoreboard_content:
 
 lobby_welcome_player_message: '§fДобро пожаловать на §6§lLiteDays, §fвас ждут не забываемеые путешествия!'
 
-## NPC ## TEST
-HOLOGRAM_HUB_GAME_SELECT_NPC_NO_SERVERS_LINE_1: '%game_name%'
-HOLOGRAM_HUB_GAME_SELECT_NPC_NO_SERVERS_LINE_3: '§cДанный режим недоступен'
-HOLOGRAM_HUB_GAME_SELECT_NPC_AVAILABLE_LINE_3: '§eНажмите, чтобы подключиться'
-HOLOGRAM_HUB_GAME_SELECT_NPC_NO_SERVERS_LINE_4: '§7Сейчас играют §f%players% §7игроков'
-
-HOLOGRAM_LOBBY_MODE_NPC_LINE_1: '§e§oНажмите, чтобы перейти'
-HOLOGRAM_LOBBY_MODE_NPC_LINE_2: '§7Сейчас играет: §f%online%'
-HOLOGRAM_LOBBY_MODE_NPC_LINE_3: '§7Серверов: §f%servers%'
-
 # Меню
 menu_player_profile_title: 'Ваш профиль'
 profile_player_info_name: 'Профиль'
@@ -104,9 +94,19 @@ menu_gamemode_gungame_content:
  - '§c§lСРАЖАЙТЕСЬ, ЗАРАБАТЫВАЙТЕ ПОИНТЫ!'
  - '§3'
 
+## Дуэли
+menu_gamemode_duels_name: '§3§lДУЭЛИ'
+menu_gamemode_duels_content:
+ - '§8Боевые сражения'
+ - '§1'
+ - '§7Сразись с игроками на арене'
+ - '§7за свою победу, все или ничего.'
+ - '§7Порази всех своей победой'
+ - '§2'
 back_item_name: '§c§lНазад'
 back_item_content:
- - 'хз че писать'
+ - '§7Данный предмет возвратит'
+ - '§7вас в предыдущее меню.'
 
 ## Донаты меню
 menu_donate_list_name: 'Донат услуги'
@@ -118,3 +118,22 @@ menu_donate_privileges_content:
   - '§7можно узнать в данном разделе.'
   - ''
   - '§e▸ Нажми, чтобы открыть меню'
+
+menu_donate_info_name: 'Привилегии ▸ Информация'
+menu_donate_status_name: '§7Подробнее о донатах'
+menu_donate_status_content:
+ - '§cздесь явно что-то будет..'
+
+## Привилегии
+menu_donate_lite_name: '§f§lLITE §8▸ §6%price%'
+menu_donate_lite_content:
+ - 'купи пжпжпж'
+ - 'всего за §6§l%price% рублей'
+# Мини-игры
+## Дуэли
+duels_mode_npc_hologram_1:
+ - ''
+duels_mode_npc_hologram_2:
+ - 'Доступных серверов: %servers%'
+duels_mode_npc_hologram_3: 
+ - 'Онлайн игроков: %online%'
