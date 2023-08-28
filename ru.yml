@@ -39,7 +39,7 @@ auth_unregister_success: '§6§lAuth §8§l| §aВы успешно разлог
 
 # Языки
 language_selector_menu_title: 'Выбор языка'
-selected_language: '§6§lLanguages §8| §fНа текущий момент вы установили §6§lРусский язык'
+selected_language: '§6§lLanguages §8| §fНа текущий момент вы установили §6§lРусский §fязык'
 
 # Предметы
 back_item_name: '§eВернуться назад'
