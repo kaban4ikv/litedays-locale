@@ -62,7 +62,7 @@ lobby_npc_gamemode_name: '%game%'
 lobby_npc_gamemode_not_corrected: '§c§lРежим в разработке..' # мб это не надо будет, посмотрим
 lobby_npc_gamemode_connect: '§e§lНажмите, чтобы подключиться'
 lobby_npc_gamemode_not_found_servers: '§c§lНет доступных серверов'
-lobby_npc_gamemode_players_count: '§f§lИгроков онлайн: §e§l%players%'
+lobby_npc_gamemode_players_count: '§f§lИгроков онлайн: §e§l%online%'
 lobby_npc_gamemode_server_available: '§f§lСерверов: §e§l§o%servers%'
 # Меню
 menu_player_profile_title: 'Ваш профиль'
