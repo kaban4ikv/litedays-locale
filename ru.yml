@@ -141,6 +141,7 @@ menu_donate_lite_content:
 
 duels_lobby_scoreboard_name: '§6§lДуэли'
 duels_lobby_scoreboard_content:
+  - '%time%'
   - '§1'
   - '§f§lСтатистика:'
   - '§cN/A'
