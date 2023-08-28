@@ -1,0 +1,158 @@
+tab_header:
+  - ''
+  - '§6§lLITEDAYS'
+  - ''
+  - '§fOnline store:§r'
+  - '§estore.litedays.net§r'
+  - ''
+  - '§7Player list:'
+tab_footer:
+  - ''
+  - ' §7You`re now:'
+  - ' §a%server% '
+
+# Core
+core_already_connection_to_server: '§6§lCore §8| §cОшибка, вы уже подключены к данному серверу'
+core_hubs_servers_not_found: '§6§lCore §8| §cХаб-сервера не найдены или не включены в систему'
+core_lobbys_servers_not_found: '§6§lCore §8| §cИгровые лобби-сервера не найдены или н включены в систему'
+core_lobby_servers_not_found: '§6§lCore §8| §cЛобби сервера отключены либо находятся в разработке..'
+minimal_group: '§6§lCore §8| §fУ вас должна быть минимум группа %group% для этого.'
+core_use_command_only_auth_servers: '§cДанную команду возможно выполнить лишь на серверах авторизации/лимбо'
+core_player_not_online: '§cИгрок никогда прежде не играл на проекте, либо он оффлайн.'
+# API Commands
+api_command_crash_help_message: '§cUsage §8- §e§l/crash <player_name>'
+api_command_crash_player_have_bypass: '§cвот сука, у него есть защита, наебни его через консоль, дружище :)'
+# Авторизация
+auth_player_not_authorized: '§6§lAuth §8§l| §cОшибка, игрок не авторизирован!'
+auth_player_not_registered: '§6§lAuth §8§l| §cОшибка, игрок не зарегистрирован!'
+auth_change_password_use: '§6§lAuth §8§l| §fИспользуйте §8- §e/changepassword <старый_пароль> <новый_пароль>'
+auth_player_password_wrong: '§6§lAuth §8§l| §cНеверно введён пароль, проверьте правильность ввода..'
+auth_success_change_password: '§6§lAuth §8§l| §aВы успешно изменили пароль от аккаунта, ваш новый пароль - %new_password%' # плейсхолдер мб в говне
+auth_player_already_authenticated: '§6§lAuth §8§l| §cИгрок уже зарегистрирован в системе.'
+auth_login_use: '§6§lAuth §8§l| §fИспользуйте §8- §e/login <ваш_пароль>'
+auth_register_use: '§6§lAuth §8§l| §fИспользуйте §8- §e/register <пароль> <повтор_пароля>'
+auth_password_not_valid: '§6§lAuth §8§l| §cОшибка, пароль должен содержать не менее 6-ти и не больше 24 символов'
+auth_password_not_correct: '§6§lAuth §8§l| §cОшибка, ваш пароль слишком простой!'
+auth_link_account_vk: '§6§lAuth §8§l| §fПривяжите аккаунт Вконтакте. Для этого напишите в §fсообщения группы §evk.com/litedaysmc [§fслово привязть <игровой_ник>]'
+auth_unregister_use: '§6§lAuth §8§l| §fИспользуйте §8- §e/unreg'
+auth_unregister_success: '§6§lAuth §8§l| §aВы успешно разлогинились, но зачем вам это ? :c'
+
+# Языки
+language_selector_menu_title: 'Select language'
+selected_language: '§6§lLanguages §8| §fYou selected English language'
+
+# Предметы
+back_item_name: '§eBack'
+back_item_content: '§7Возврат в первоначальное меню'
+
+# Лобби
+lobby_scoreboard_name: '§6§lLiteDays'
+lobby_scoreboard_content:
+ - '§1'
+ - '§fStatus: %status%'
+ - '§fCoins: §6%money%'
+ - '§2'
+ - '§fLevel: §a%level%'
+ - '§3'
+ - '§fLobby ID: §2%lobby%'
+ - '§fGlobal Online: §a%online%'
+ - '§4'
+ - '§emc.litedays.net'
+
+lobby_welcome_player_message: '§fWelcome to §6§lLiteDays, §fhave fun!'
+
+## NPC
+lobby_npc_gamemode_name: '%game%'
+lobby_npc_gamemode_not_corrected: '§c§lMode in developing..' # мб это не надо будет, посмотрим
+lobby_npc_gamemode_connect: '§e§lClick to connect'
+lobby_npc_gamemode_not_found_servers: '§c§lServers not found'
+lobby_npc_gamemode_players_count: '§f§lOnline: §e§l%online%'
+lobby_npc_gamemode_server_available: '§f§lServers: §e§l§o%servers%'
+# Меню
+menu_player_profile_title: 'Your profile'
+profile_player_info_name: 'Profile'
+profile_player_info_content:
+ - ''
+ - '§fStatus: %group%'
+ - '§fLanguage: §6%language%'
+ - ''
+ - '§fMC version: §e%version%'
+ - '§fServer: §a%server%'
+ - '§f2FA: §cN/a'
+ - ''
+ - '§a▸ Click to get link'
+
+menu_gamemode_title: 'Select Gamemode'
+menu_gamemode_profile_name: 'Profile %player%'
+menu_gamemode_profile_content:
+ - '§cDescription not found'
+menu_gamemode_back_to_hub_name: '§eBack to hub'
+menu_gamemode_back_to_hub_content:
+ - '§7Отдохните от игры, развейтесь,'
+ - '§7пройдите паркур, опробуйте новые фишки.'
+
+## Режимы меню
+menu_gamemode_gungame_name: '§e§lGunGame'
+menu_gamemode_gungame_content:
+ - '§7Это не просто унылый GunGame,'
+ - '§7как многие могли подумать, это'
+ - '§7переработка, кастомизация данного режима.'
+ - '§1'
+ - '§7Вас ждет незабываемое сражение'
+ - '§c§lКАСТОМНЫМИ §7предметами, а так же'
+ - '§c§lуникальный§7, §c§lкастомизированный дроп.'
+ - '§2'
+ - '§c§lСРАЖАЙТЕСЬ, ЗАРАБАТЫВАЙТЕ ПОИНТЫ!'
+ - '§3'
+
+## Дуэли
+menu_gamemode_duels_name: '§3§lDUELS'
+menu_gamemode_duels_content:
+ - '§8Боевые сражения'
+ - '§1'
+ - '§7Сразись с игроками на арене'
+ - '§7за свою победу, все или ничего.'
+ - '§7Порази всех своей победой'
+ - '§2'
+back_item_name: '§c§lНазад'
+back_item_content:
+ - '§7Данный предмет возвратит'
+ - '§7вас в предыдущее меню.'
+
+## Донаты меню
+menu_donate_list_name: 'Donate'
+menu_donate_privileges_name: '§e§lPrivileges'
+menu_donate_privileges_content:
+  - '§7Список донат привилегий'
+  - ''
+  - '§7Все возможности привилегий'
+  - '§7можно узнать в данном разделе.'
+  - ''
+  - '§e▸ Нажми, чтобы открыть меню'
+
+menu_donate_info_name: 'Privileges ▸ Info'
+menu_donate_status_name: '§7Подробнее о донатах'
+menu_donate_status_content:
+ - '§cздесь явно что-то будет..'
+
+## Привилегии
+menu_donate_lite_name: '§f§lLITE §8▸ §6%price%'
+menu_donate_lite_content:
+ - 'купи пжпжпж'
+ - 'всего за §6§l%price% рублей'
+# Мини-игры
+## Дуэли
+
+duels_lobby_scoreboard_name: '§6§lDUELS' # это не юзается
+duels_lobby_scoreboard_content:
+  - '%date%'
+  - '§1'
+  - '§f§lStats:'
+  - '§cN/A'
+  - '§2'
+  - '§fCoins: §6%money%'
+  - '§3'
+  - '§fLobby ID: §2%lobby%'
+  - '§fGlobal Online: §a%online%'
+  - '§4'
+  - '    §e§l§nmc.litedays.net'
