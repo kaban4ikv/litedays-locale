@@ -57,6 +57,12 @@ lobby_scoreboard_content:
 
 lobby_welcome_player_message: '§fДобро пожаловать на §6§lLiteDays, §fвас ждут не забываемеые путешествия!'
 
+## NPC
+lobby_npc_gamemode_name: '%game%'
+lobby_npc_gamemode_not_corrected: '§c§lРежим в разработке..' # мб это не надо будет, посмотрим
+lobby_npc_gamemode_connect: '§e§lНажмите, чтобы подключиться'
+lobby_npc_gamemode_not_found_servers: '§c§lНет доступных серверов'
+lobby_npc_gamemode_players_count: '§f§lИгроков онлайн: §e§l%players%'
 # Меню
 menu_player_profile_title: 'Ваш профиль'
 profile_player_info_name: 'Профиль'
