@@ -63,6 +63,7 @@ lobby_npc_gamemode_not_corrected: '§c§lРежим в разработке..' #
 lobby_npc_gamemode_connect: '§e§lНажмите, чтобы подключиться'
 lobby_npc_gamemode_not_found_servers: '§c§lНет доступных серверов'
 lobby_npc_gamemode_players_count: '§f§lИгроков онлайн: §e§l%players%'
+lobby_npc_gamemode_server_available: '§f§lСерверов: §e§l§o%servers%'
 # Меню
 menu_player_profile_title: 'Ваш профиль'
 profile_player_info_name: 'Профиль'
@@ -137,12 +138,6 @@ menu_donate_lite_content:
  - 'всего за §6§l%price% рублей'
 # Мини-игры
 ## Дуэли
-duels_mode_npc_hologram_1:
- - '%game_new%'
-duels_mode_npc_hologram_2:
- - 'Доступных серверов: %servers%'
-duels_mode_npc_hologram_3: 
- - 'Онлайн игроков: %online%'
 
 duels_lobby_scoreboard_name: '§6§lДуэли'
 duels_lobby_scoreboard_content:
