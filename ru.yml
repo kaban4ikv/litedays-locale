@@ -132,29 +132,13 @@ menu_donate_lite_content:
 # Мини-игры
 ## Дуэли
 duels_mode_npc_hologram_1:
- - ''
+ - '%game_new%'
 duels_mode_npc_hologram_2:
  - 'Доступных серверов: %servers%'
 duels_mode_npc_hologram_3: 
  - 'Онлайн игроков: %online%'
 
-duels_lobby_scoreboard_name:
-  - '§6§lДуэли'
-  - '§6§lДуэли'
-  - '§6§lДуэли'
-  - '§6§lДуэли'
-  - '§6§lДуэли'
-  - '§6§lДуэли'
-  - '§6§lДуэли'
-  - '§f§lД§6§lуэли'
-  - '§f§lД§6§lу§6§lэли'
-  - '§f§lДу§e§lэ§6§lли'
-  - '§f§lДуэ§e§lл§6§lи'
-  - '§e§lД§f§lуэл§e§lи'
-  - '§6§lД§e§lу§f§lэли'
-  - '§6§lДу§e§lэ§f§lли'
-  - '§6§lДуэ§e§lл§f§lи'
-  - '§6§lДуэл§e§lи'
+duels_lobby_scoreboard_name: '§6§lДуэли'
 duels_lobby_scoreboard_content:
   - '§1'
   - '§f§lСтатистика:'
@@ -165,4 +149,4 @@ duels_lobby_scoreboard_content:
   - '§fИдентификатор лобби: §2%lobby%'
   - '§fОбщий онлайн: §a%online%'
   - '§4'
-  - '  §e§l§nmc.litedays.net  '
+  - '    §e§l§nmc.litedays.net'
