@@ -120,7 +120,8 @@ profile_player_language_content: |-
   §cсервере могут быть переведены не
   §cполностью или не переведены вовсе
   §f
-  §7Процент перевода: §f%percentage%%
+  §7Процент перевода: §f%ru_translated_percent%
+  §7Процент перевода EN: %en_translated_percent%
   §f
 profile_player_level_reward_name: '§bУровни и награды'
 profile_player_level_reward_content: |-
