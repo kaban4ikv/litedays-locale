@@ -116,15 +116,13 @@ profile_player_donation_name: '§6§lУслуги доната'
 profile_player_donation_content:
  - '§cnope'
 profile_player_language_name: 'Выбор языка'
-profile_player_language_content: |-
-  §f
-  §c§lВнимание! §cНекоторые элементы на
-  §cсервере могут быть переведены не
-  §cполностью или не переведены вовсе
-  §f
-  §7Процент перевода: §f%ru_translated_percent%
-  §7Процент перевода EN: %en_translated_percent%
-  §f
+profile_player_language_content:
+ - '§1'
+ - '§c§lВнимание! §cНекоторые элементы на'
+ - '§cсервере могут быть переведены не'
+ - '§cполностью или не переведены вовсе'
+ - '§2'
+ - '§e▸ Открыть меню выбора языка'
 profile_player_level_reward_name: '§bУровни и награды'
 profile_player_level_reward_content: |-
   §f
