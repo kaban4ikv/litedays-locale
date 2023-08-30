@@ -122,6 +122,11 @@ profile_player_language_content:
  - '§cсервере могут быть переведены не'
  - '§cполностью или не переведены вовсе'
  - '§2'
+ - '§7Процент перевода:'
+ - '§3'
+ - '§cEnglish: §a%en_translated_percent%%'
+ - '§cРусский: %ru_translated_percent%%'
+ - '§4'
  - '§e▸ Открыть меню выбора языка'
 profile_player_level_reward_name: '§bУровни и награды'
 profile_player_level_reward_content: |-
