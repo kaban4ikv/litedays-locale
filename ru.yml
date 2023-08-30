@@ -93,7 +93,56 @@ profile_player_info_content:
  - '§f2FA: §cN/a'
  - ''
  - '§a▸ Кликните для получения ссылки'
+profile_player_skinhistory_name: '§6§lИстория скинов  §8§k§l|'
+profile_player_skinhistory_content:
+ - '§1'
+ - '§7Просмотрите последнюю историю'
+ - '§7установленных скинов, максимальное количество'
+ - '§c§l7 §7скинов.'
+profile_player_settings_name: '§6§lНастройки профиля'
+profile_player_settings_content: 
+ - 'запрети пидорасу писать тебе в лс'
+profile_player_dailyreward_name: '§6§lЕжедневные награды'
+profile_player_dailyreward_content:
+ - 'получи говно'
+profile_player_converter_name: '§6§lКонвертер'
+profile_player_converter_content: 
+ - '§1'
+ - '§7Конвертируй §3§lОПЫТ§7, §6§lМОНЕТЫ'
+ - '§7во что-то лучшее..'
+profile_player_donation_name: '§6§lУслуги доната'
+profile_player_donation_content:
+ - '§cnope'
+profile_player_language_name: 'Выбор языка'
+profile_player_language_content: |-
+  §f
+  §c§lВнимание! §cНекоторые элементы на
+  §cсервере могут быть переведены не
+  §cполностью или не переведены вовсе
+  §f
+  §7Процент перевода: §f%percentage%%
+  §f
+profile_player_level_reward_name: '§bУровни и награды'
+profile_player_level_reward_content: |-
+  §f
+  §7Ваш текущий уровень: §d%level%
+  §7Всего опыта: §3%level_exp_required%
+  §f
+  §7До достижения §d%nextlevel% §7уровня:
+  §6%level_percent%% §3%progress%§8/§3%level_exp_required% exp
+  §f
+  §7Игровой статус: §f%status%
+  §f
+  §7За достижение каждого из уровней
+  §7игрок получает различные награды,
+  §7а более высокий уровень открывает
+  §7намного больше возможностей
+  §f
+  §e▸ Нажмите, чтобы просмотреть награды
 
+profile_player_boosters_name: '§6§lМножители'
+profile_player_boosters_content:
+ - 'jewluts'
 menu_gamemode_title: 'Выбор режима'
 menu_gamemode_profile_name: 'Профиль %player%'
 menu_gamemode_profile_content:
