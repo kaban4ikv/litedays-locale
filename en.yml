@@ -8,43 +8,55 @@ tab_header:
   - '§7Player list:'
 tab_footer:
   - ''
-  - ' §7You`re now:'
+  - ' §7Server:'
   - ' §a%server% '
 
 # Core
-core_already_connection_to_server: '§6§lCore §8| §cОшибка, вы уже подключены к данному серверу'
-core_hubs_servers_not_found: '§6§lCore §8| §cХаб-сервера не найдены или не включены в систему'
-core_lobbys_servers_not_found: '§6§lCore §8| §cИгровые лобби-сервера не найдены или н включены в систему'
-core_lobby_servers_not_found: '§6§lCore §8| §cЛобби сервера отключены либо находятся в разработке..'
-minimal_group: '§6§lCore §8| §fУ вас должна быть минимум группа %group% для этого.'
+core_already_connection_to_server: '§6§lCore §8▸ §cОшибка, вы уже подключены к данному серверу'
+core_hubs_servers_not_found: '§6§lCore §8▸ §cХаб-сервера не найдены или не включены в систему'
+core_lobbys_servers_not_found: '§6§lCore §8▸ §cИгровые лобби-сервера не найдены или н включены в систему'
+core_lobby_servers_not_found: '§6§lCore §8▸ §cЛобби сервера отключены либо находятся в разработке..'
+minimal_group: '§6§lCore §8▸ §fУ вас должна быть минимум группа %group% для этого.'
 core_use_command_only_auth_servers: '§cДанную команду возможно выполнить лишь на серверах авторизации/лимбо'
 core_player_not_online: '§cИгрок никогда прежде не играл на проекте, либо он оффлайн.'
 # API Commands
-api_command_crash_help_message: '§cUsage §8- §e§l/crash <player_name>'
+api_command_crash_help_message: '§cИспользование §8- §e§l/crash <ник_игрока>'
 api_command_crash_player_have_bypass: '§cвот сука, у него есть защита, наебни его через консоль, дружище :)'
 # Авторизация
-auth_player_not_authorized: '§6§lAuth §8§l| §cОшибка, игрок не авторизирован!'
-auth_player_not_registered: '§6§lAuth §8§l| §cОшибка, игрок не зарегистрирован!'
-auth_change_password_use: '§6§lAuth §8§l| §fИспользуйте §8- §e/changepassword <старый_пароль> <новый_пароль>'
-auth_player_password_wrong: '§6§lAuth §8§l| §cНеверно введён пароль, проверьте правильность ввода..'
-auth_success_change_password: '§6§lAuth §8§l| §aВы успешно изменили пароль от аккаунта, ваш новый пароль - %new_password%' # плейсхолдер мб в говне
-auth_player_already_authenticated: '§6§lAuth §8§l| §cИгрок уже зарегистрирован в системе.'
-auth_login_use: '§6§lAuth §8§l| §fИспользуйте §8- §e/login <ваш_пароль>'
-auth_register_use: '§6§lAuth §8§l| §fИспользуйте §8- §e/register <пароль> <повтор_пароля>'
-auth_password_not_valid: '§6§lAuth §8§l| §cОшибка, пароль должен содержать не менее 6-ти и не больше 24 символов'
-auth_password_not_correct: '§6§lAuth §8§l| §cОшибка, ваш пароль слишком простой!'
-auth_link_account_vk: '§6§lAuth §8§l| §fПривяжите аккаунт Вконтакте. Для этого напишите в §fсообщения группы §evk.com/litedaysmc [§fслово привязть <игровой_ник>]'
-auth_unregister_use: '§6§lAuth §8§l| §fИспользуйте §8- §e/unreg'
-auth_unregister_success: '§6§lAuth §8§l| §aВы успешно разлогинились, но зачем вам это ? :c'
+auth_player_not_authorized: '§6§lAuth §8§l▸ §cОшибка, игрок не авторизирован!'
+auth_player_not_registered: '§6§lAuth §8§l▸ §cОшибка, игрок не зарегистрирован!'
+auth_change_password_use: '§6§lAuth §8§l▸ §fИспользуйте §8- §e/changepassword <старый_пароль> <новый_пароль>'
+auth_player_password_wrong: '§6§lAuth §8§l▸ §cНеверно введён пароль, проверьте правильность ввода..'
+auth_success_change_password: '§6§lAuth §8§l▸ §aВы успешно изменили пароль от аккаунта, ваш новый пароль - %new_password%' # плейсхолдер мб в говне
+auth_player_already_authenticated: '§6§lAuth §8§l▸ §cИгрок уже зарегистрирован в системе.'
+auth_login_use: '§6§lAuth §8§l▸ §fИспользуйте §8- §e/login <ваш_пароль>'
+auth_register_use: '§6§lAuth §8§l▸ §fИспользуйте §8- §e/register <пароль> <повтор_пароля>'
+auth_password_not_valid: '§6§lAuth §8§l▸ §cОшибка, пароль должен содержать не менее 6-ти и не больше 24 символов'
+auth_password_not_correct: '§6§lAuth §8§l▸ §cОшибка, ваш пароль слишком простой!'
+auth_link_account_vk: '§6§lAuth §8§l▸ §fПривяжите аккаунт Вконтакте. Для этого напишите в §fсообщения группы §evk.com/litedaysmc [§fслово привязть <игровой_ник>]'
+auth_unregister_use: '§6§lAuth §8§l▸ §fИспользуйте §8- §e/unreg'
+auth_unregister_success: '§6§lAuth §8§l▸ §aВы успешно разлогинились, но зачем вам это ? :c'
 
 # Языки
-language_selector_menu_title: 'Select language'
-selected_language: '§6§lLanguages §8| §fYou selected English language'
+language_selector_menu_title: 'Выбор языка'
+selected_language: '§6§lLanguages §8§l▸ §fНа текущий момент вы установили §6§lРусский §fязык'
 
 # Предметы
-back_item_name: '§eBack'
+back_item_name: '§eВернуться назад'
 back_item_content: '§7Возврат в первоначальное меню'
 
+# Игрок (все об игроках)
+## Уровни
+player_update_level_new:
+ - '§6§l■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■'
+ - '§1'
+ - '          §b§kX§c§l НОВЫЙ УРОВЕНЬ §b§kX'
+ - '  §fВы достигли §d%level_new% §fуровня'
+ - '  §fДо следующего уровня необходимо §3%exp%'
+ - '§2'
+ - '§6§l■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■'
+player_update_level_new_title: '§6§l§kX§c§l УРОВЕНЬ ПОВЫШЕН §6§l§kX§r'
+player_update_level_new_subtitle: '§7§lВы достигли §d§l%level_new% §7серверного уровня'
 # Лобби
 lobby_scoreboard_name: '§6§lLiteDays'
 lobby_scoreboard_content:
@@ -52,41 +64,95 @@ lobby_scoreboard_content:
  - '§fStatus: %status%'
  - '§fCoins: §6%money%'
  - '§2'
- - '§fLevel: §a%level%'
+ - '§fLevel: §d%level%'
  - '§3'
  - '§fLobby ID: §2%lobby%'
  - '§fGlobal Online: §a%online%'
  - '§4'
  - '§emc.litedays.net'
 
-lobby_welcome_player_message: '§fWelcome to §6§lLiteDays, §fhave fun!'
+lobby_welcome_player_message: '§fДобро пожаловать на §6§lLiteDays, §fвас ждут не забываемеые путешествия!'
 
 ## NPC
 lobby_npc_gamemode_name: '%game%'
-lobby_npc_gamemode_not_corrected: '§c§lMode in developing..' # мб это не надо будет, посмотрим
-lobby_npc_gamemode_connect: '§e§lClick to connect'
-lobby_npc_gamemode_not_found_servers: '§c§lServers not found'
-lobby_npc_gamemode_players_count: '§f§lOnline: §e§l%online%'
-lobby_npc_gamemode_server_available: '§f§lServers: §e§l§o%servers%'
+lobby_npc_gamemode_not_corrected: '§c§lРежим в разработке..' # мб это не надо будет, посмотрим
+lobby_npc_gamemode_connect: '§e§lНажмите, чтобы подключиться'
+lobby_npc_gamemode_not_found_servers: '§c§lНет доступных серверов'
+lobby_npc_gamemode_players_count: '§f§lИгроков онлайн: §e§l%online%'
+lobby_npc_gamemode_server_available: '§f§lСерверов: §e§l§o%servers%'
 # Меню
-menu_player_profile_title: 'Your profile'
-profile_player_info_name: 'Profile'
+menu_player_profile_title: 'Ваш профиль'
+profile_player_info_name: 'Профиль'
 profile_player_info_content:
  - ''
- - '§fStatus: %group%'
- - '§fLanguage: §6%language%'
+ - '§fИгровая группа: %group%'
+ - '§fЯзык: §6%language%'
  - ''
- - '§fMC version: §e%version%'
- - '§fServer: §a%server%'
+ - '§fВерсия клиента: §e%version%'
+ - '§fСервер: §a%server%'
  - '§f2FA: §cN/a'
  - ''
- - '§a▸ Click to get link'
+ - '§a▸ Кликните для получения ссылки'
+profile_player_skinhistory_name: '§6§lИстория скинов  §8§k§l|'
+profile_player_skinhistory_content:
+ - '§1'
+ - '§7Просмотрите последнюю историю'
+ - '§7установленных скинов, логируется список'
+ - '§7до 7 §7скинов.'
+ - '§2'
+ - '§e▸ Открыть меню истории скинов'
+profile_player_settings_name: '§6§lНастройки профиля'
+profile_player_settings_content: 
+ - 'запрети пидорасу писать тебе в лс'
+profile_player_dailyreward_name: '§6§lЕжедневные награды'
+profile_player_dailyreward_content:
+ - 'получи говно'
+profile_player_converter_name: '§6§lКонвертер'
+profile_player_converter_content: 
+ - '§1'
+ - '§7Конвертируй §3§lОПЫТ§7, §6§lМОНЕТЫ'
+ - '§7во что-то лучшее..'
+profile_player_donation_name: '§6§lУслуги доната'
+profile_player_donation_content:
+ - '§cnope'
+profile_player_language_name: 'Language'
+profile_player_language_content:
+ - '§1'
+ - '§c§lWarning! §cНекоторые элементы на'
+ - '§cсервере могут быть переведены не'
+ - '§cполностью или не переведены вовсе'
+ - '§2'
+ - '§7Translated percent:'
+ - '§7English: • §a%en_translated_percent%%'
+ - '§7Русский: • §a%ru_translated_percent%%'
+ - '§3'
+ - '§e▸ Open language selector menu'
+profile_player_level_reward_name: '§bУровни и награды'
+profile_player_level_reward_content: |-
+  §f
+  §7Ваш текущий уровень: §d%level%
+  §7Всего опыта: §3%level_exp_required%
+  §f
+  §7До достижения §d%nextlevel% §7уровня:
+  §6%level_percent%% §3%progress%§8/§3%level_exp_required% exp
+  §f
+  §7Игровой статус: §f%status%
+  §f
+  §7За достижение каждого из уровней
+  §7игрок получает различные награды,
+  §7а более высокий уровень открывает
+  §7намного больше возможностей
+  §f
+  §e▸ Нажмите, чтобы просмотреть награды
 
-menu_gamemode_title: 'Select Gamemode'
-menu_gamemode_profile_name: 'Profile %player%'
+profile_player_boosters_name: '§6§lМножители'
+profile_player_boosters_content:
+ - 'jewluts'
+menu_gamemode_title: 'Выбор режима'
+menu_gamemode_profile_name: 'Профиль %player%'
 menu_gamemode_profile_content:
- - '§cDescription not found'
-menu_gamemode_back_to_hub_name: '§eBack to hub'
+ - '§cОписание съел камбет O_o'
+menu_gamemode_back_to_hub_name: '§eВернуться в главное лобби'
 menu_gamemode_back_to_hub_content:
  - '§7Отдохните от игры, развейтесь,'
  - '§7пройдите паркур, опробуйте новые фишки.'
@@ -106,7 +172,7 @@ menu_gamemode_gungame_content:
  - '§3'
 
 ## Дуэли
-menu_gamemode_duels_name: '§3§lDUELS'
+menu_gamemode_duels_name: '§3§lДУЭЛИ'
 menu_gamemode_duels_content:
  - '§8Боевые сражения'
  - '§1'
@@ -120,8 +186,8 @@ back_item_content:
  - '§7вас в предыдущее меню.'
 
 ## Донаты меню
-menu_donate_list_name: 'Donate'
-menu_donate_privileges_name: '§e§lPrivileges'
+menu_donate_list_name: 'Донат услуги'
+menu_donate_privileges_name: '§e§lПривилегии'
 menu_donate_privileges_content:
   - '§7Список донат привилегий'
   - ''
@@ -130,7 +196,7 @@ menu_donate_privileges_content:
   - ''
   - '§e▸ Нажми, чтобы открыть меню'
 
-menu_donate_info_name: 'Privileges ▸ Info'
+menu_donate_info_name: 'Привилегии ▸ Информация'
 menu_donate_status_name: '§7Подробнее о донатах'
 menu_donate_status_content:
  - '§cздесь явно что-то будет..'
@@ -143,16 +209,19 @@ menu_donate_lite_content:
 # Мини-игры
 ## Дуэли
 
-duels_lobby_scoreboard_name: '§6§lDUELS' # это не юзается
+duels_lobby_scoreboard_name: '§6§lДуэли'
 duels_lobby_scoreboard_content:
-  - '%date%'
+  - '§7%date%'
   - '§1'
-  - '§f§lStats:'
+  - '§f§lСтатистика:'
   - '§cN/A'
   - '§2'
-  - '§fCoins: §6%money%'
+  - '§fМонеты: §6%money%'
   - '§3'
-  - '§fLobby ID: §2%lobby%'
-  - '§fGlobal Online: §a%online%'
+  - '§fИдентификатор лобби: §2%lobby%'
+  - '§fОбщий онлайн: §a%online%'
   - '§4'
   - '    §e§l§nmc.litedays.net'
+
+## Grief
+grief_you_not_have_perms_to_joined_regions: '§c§lОШИБКА! У ВАС НЕТ ПРАВ ЕБАТЬ ЧУЖИЕ РЕГИОНЫ, ТЫ АХУЕЛА, ГНИДА?'
