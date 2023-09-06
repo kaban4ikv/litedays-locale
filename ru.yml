@@ -33,7 +33,7 @@ auth_login_use: '§6§lAuth §8§l▸ §fИспользуйте §8- §e/login <
 auth_register_use: '§6§lAuth §8§l▸ §fИспользуйте §8- §e/register <пароль> <повтор_пароля>'
 auth_password_not_valid: '§6§lAuth §8§l▸ §cОшибка, пароль должен содержать не менее 6-ти и не больше 24 символов'
 auth_password_not_correct: '§6§lAuth §8§l▸ §cОшибка, ваш пароль слишком простой!'
-auth_link_account_vk: '§6§lAuth §8§l▸ §fПривяжите аккаунт Вконтакте. Для этого напишите в §fсообщения группы §evk.com/litedaysmc [§fслово привязть <игровой_ник>]'
+auth_link_account_vk: '§6§lAuth §8§l▸ §fВаш аккаунт находится в опасности, чтобы его обезопасить, привяжите его к VK странице: §bvk.me/litedaysru'
 auth_unregister_use: '§6§lAuth §8§l▸ §fИспользуйте §8- §e/unreg'
 auth_unregister_success: '§6§lAuth §8§l▸ §aВы успешно разлогинились, но зачем вам это ? :c'
 
