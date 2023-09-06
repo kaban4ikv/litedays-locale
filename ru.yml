@@ -3,13 +3,13 @@ tab_header:
   - '§6§lLITEDAYS'
   - ''
   - '§fОнлайн магазин:§r'
-  - '§estore.litedays.net§r'
+  - '§6store.litedays.net§r'
   - ''
   - '§7Список игроков:'
 tab_footer:
   - ''
-  - ' §7Вы находитесь на сервере:'
-  - ' §a%server% '
+  - ' §7Текущий сервер:'
+  - ' §e%server% '
 
 # Core
 core_already_connection_to_server: '§6§lCore §8▸ §cОшибка, вы уже подключены к данному серверу'
