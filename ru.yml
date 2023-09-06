@@ -46,6 +46,8 @@ back_item_name: '§eВернуться назад'
 back_item_content: '§7Возврат в первоначальное меню'
 
 # Игрок (все об игроках)
+## Награды
+daily_reward_success_message: '§6§lLiteDays §8§l▸ §fПолучена награда за день §6'
 ## Уровни
 player_update_level_new:
  - '§6§l■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■'
