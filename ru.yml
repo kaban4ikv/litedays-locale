@@ -1,15 +1,15 @@
 tab_header:
   - ''
-  - '§6§lLITEDAYS'
+  - '§6§lLiteDays'
   - ''
-  - '§fОнлайн магазин:§r'
-  - '§6store.litedays.net§r'
+  - '§fТекущий сервер: §e%server%'
+  - '§fОбщий онлайн: §e%online%'
   - ''
   - '§7Список игроков:'
 tab_footer:
   - ''
-  - ' §7Текущий сервер:'
-  - ' §e%server% '
+  - ' §fОнлайн магазин: §6store.litedays.net'
+  - ' §fГруппа VK: §bvk.litedays.xyz'
 
 # Core
 core_already_connection_to_server: '§6§lCore §8▸ §cОшибка, вы уже подключены к данному серверу'
