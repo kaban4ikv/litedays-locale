@@ -234,5 +234,19 @@ duels_lobby_scoreboard_content:
   - '§4'
   - '    §e§l§nmc.litedays.net'
 
-## Grief
-grief_you_not_have_perms_to_joined_regions: '§c§lОШИБКА! У ВАС НЕТ ПРАВ ЕБАТЬ ЧУЖИЕ РЕГИОНЫ, ТЫ АХУЕЛА, ГНИДА?'
+## АНАРХИЯ
+anarchy_board_content:
+ - '§7%date%'
+ - '§1'
+ - '§fДонат группа: %status%'
+ - '§fУровень: §d%level%'
+ - '§2'
+ - '§7§lСтатистика режима:'
+ - '§fУбийства: §a%kills%'
+ - '§fСмертей: §c%deaths%'
+ - '§fБаланс: §6%money%'
+ - '§3'
+ - '§fОнлайн режима: §a%online%'
+ - '§fОбщий онлайн: §a%global_online%'
+ - '§4'
+ - '  §e§nwww.litedays.net   '
