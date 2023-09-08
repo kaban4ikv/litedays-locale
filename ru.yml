@@ -19,6 +19,8 @@ core_lobby_servers_not_found: '§6§lCore §8▸ §cЛобби сервера о
 minimal_group: '§6§lCore §8▸ §fУ вас должна быть минимум группа %group% для этого.'
 core_use_command_only_auth_servers: '§cДанную команду возможно выполнить лишь на серверах авторизации/лимбо'
 core_player_not_online: '§cИгрок никогда прежде не играл на проекте, либо он оффлайн.'
+core_only_authorized_used: '§6§lCore §8§l▸ §cДанное действие доступно лишь авторизированным пользователям!'
+core_only_auth_server_used: '§6§lCore §8§l▸ §cДанное действие доступно лишь на серверах авторизации/лимбо'
 # API Commands
 api_command_crash_help_message: '§cИспользование §8- §e§l/crash <ник_игрока>'
 api_command_crash_player_have_bypass: '§cвот сука, у него есть защита, наебни его через консоль, дружище :)'
