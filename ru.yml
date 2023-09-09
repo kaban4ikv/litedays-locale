@@ -234,6 +234,36 @@ duels_lobby_scoreboard_content:
   - '§4'
   - '    §e§l§nmc.litedays.net'
 
+# ARCADE
+## TNT TAG
+tnt_board_name: '§6§lTntTag'
+tnt_board_wait_content:
+ - '%date%'
+ - '§1'
+ - '§fТребуется игроков: §a%online%§7/%max%'
+ - '§2'
+ - '%status%'
+ - '§3'
+ - '§fКарта: §a%map%'
+ - '§fИгровой сервер: §a%server%'
+ - '§4'
+ - '      §e§nwww.litedays.net'
+tnt_board_game_content:
+ - '%date%'
+ - '§1'
+ - '%status%'
+ - '§fУничтожение TNT: §a%countdown%'
+ - '§fКарта: §a%map%'
+ - '§fИгровой сервер: §a%server%'
+ - '§4'
+ - '      §e§nwww.litedays.net'
+tnt_board_ending_content:
+ - '%date%'
+ - '§1'
+ - '§fПобедитель: '
+ - '   %winner%'
+ - '§2'
+ - '      §e§nwww.litedays.net'
 ## АНАРХИЯ
 anarchy_board_content:
  - '§7%date%'
