@@ -280,3 +280,11 @@ anarchy_board_content:
  - '§fОбщий онлайн: §a%global_online%'
  - '§4'
  - '  §e§nwww.litedays.net   '
+
+#test
+CHAT_HOVER:
+  - '§7Статистика %player%§7:'
+  - ' §8| §7Уровень: §d%level%'
+  - ' §8| §7EXP: §e%exp%§8/§c%max_exp%'
+  - ''
+  - '§e▸ Нажмите, чтобы отправить личное сообщение'
